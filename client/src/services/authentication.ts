@@ -1,3 +1,3 @@
-export const authenticationFunction = () =>{
-    return "hehe"
+export const authenticationFunction = (ok : any) =>{
+    return "haha"
 }
